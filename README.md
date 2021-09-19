@@ -11,15 +11,15 @@ A. 6 DOF arm controlled by servo motors which can move each motor independently 
 B. Unity simulation of a 6 DOF arm that can reach an XYZ using ML agents on its own with the input of XYZ and giving the theta of each motor as output. 
 
 
-## TODOS
+## TODO
 ### A
-[] Assemble the arm
-[] Control arm using a rasp controller
+[ ] Assemble the arm  
+[ ] Control arm using a rasp controller  
 
 
 ### B
-[] Recreate servo based 6 DOF model close to reality on unity
-[] Setup control system on it to be able to move with physics and motor angles 
-[] Setup training system for ML agents with reward model
-[] Get motor angle outputs real time from model on a learnt system
-[] Feed above to A and see our lives fall apart
+[ ] Recreate servo based 6 DOF model close to reality on unity  
+[ ] Setup control system on it to be able to move with physics and motor angles 
+[ ] Setup training system for ML agents with model  
+[ ] Get motor angle outputs real time from model on a learnt system  
+[ ] Feed above to A and see our lives fall apart  
